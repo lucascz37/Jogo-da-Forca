@@ -1,19 +1,19 @@
 # Jogo da Forca
-O intuito desse jogo é fazer com que o programa adivinhe a palavra que você pensou.
-OBS:Como todo jogo da forca, tenha em mente que se não for honesto é impossivel ganhar.
-Créditos pelas imagens em ASCII: https://www.asciiart.eu 
-Créditos pela lista de palavras txt: https://github.com/pythonprobr/palavras
-OBS²:O tempo de loading pode mudar consideravelmente se usada lista própria com menos palavras. A neste repositório 
-contém aproximadamente 320.100 palavras.
+O intuito desse jogo Ã© fazer com que o programa adivinhe a palavra que vocÃª pensou.
+OBS:Como todo jogo da forca, tenha em mente que se nÃ£o for honesto Ã© impossivel ganhar.
+CrÃ©ditos pelas imagens em ASCII: https://www.asciiart.eu 
+CrÃ©ditos pela lista de palavras txt: https://github.com/pythonprobr/palavras
+OBSÂ²:O tempo de loading pode mudar consideravelmente se usada lista prÃ³pria com menos palavras. A neste repositÃ³rio 
+contÃ©m aproximadamente 320.100 palavras.
 
-      		     <((((((\\\
-                     /      . }\
-                     ;--..--._|}
-  (\                 '--/\--'  )
-   \\                | '-'  :'|
-    \\               . -==- .-|
-     \\               \.__.'   \--._
-     [\\          __.--|       //  _/'--.
+      		  <((((((\\\
+                    /      . }\
+                    ;--..--._|}
+ (\                 '--/\--'  )
+  \\                | '-'  :'|
+   \\               . -==- .-|
+    \\               \.__.'   \--._
+     \\          __.--|       //  _/'--.
      \ \\       .'-._ ('-----'/ __/      \
       \ \\     /   __>|      | '--.       |
        \ \\   |   \   |     /    /       /
