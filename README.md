@@ -6,28 +6,4 @@ Créditos pela lista de palavras txt: https://github.com/pythonprobr/palavras
 OBS²:O tempo de loading pode mudar consideravelmente se usada lista própria com menos palavras. A neste repositório 
 contém aproximadamente 320.100 palavras.
 
-      		  <((((((\\\
-                    /      . }\
-                    ;--..--._|}
- (\                 '--/\--'  )
- 
-  \\                | '-'  :'|
-  
-   \\               . -==- .-|
-   
-    \\               \.__.'   \--._
-    
-     \\          __.--|       //  _/'--.
-     
-     \ \\       .'-._ ('-----'/ __/      \
-     
-      \ \\     /   __>|      | '--.       | 
-      
-       \ \\   |   \   |     /    /       /
-       
-        \ '\ /     \  |     |  _/       /
-        
-         \  \       \ |     | /        /
-         
-   snd    \  \      \        /
 I will be back.
