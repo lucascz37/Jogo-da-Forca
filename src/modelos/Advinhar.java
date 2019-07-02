@@ -47,7 +47,7 @@ public class Advinhar {
 		while(arquivo.hasNextLine()) {
 			String texto = arquivo.nextLine();
 			if(texto.length() == quantLetras) {
-				a1.add(texto);
+				a1.add(texto.toLowerCase());
 			}
 		}
 		this.chute();
